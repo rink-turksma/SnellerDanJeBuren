@@ -30,13 +30,13 @@ Na de installatie vind je **SnellerDanJeBuren** in het **Startmenu**.
 
 Open eerst het **Setup-menu**. Daar zie je de instructies om een gratis **TomTom Developer account** aan te maken en een API-sleutel te verkrijgen.
 
-<img width="877" height="287" alt="image" src="https://github.com/user-attachments/assets/d92f16d3-1c00-409d-aa66-4314ed66516e" />
-
 Als je dit hebt gedaan, klik je op **‘Zoek en voeg laadpaal toe’**.
 
-<img width="876" height="279" alt="image" src="https://github.com/user-attachments/assets/915d01e4-a190-45d5-ad18-809badd6e5dd" />
+<img width="877" height="287" alt="image" src="https://github.com/user-attachments/assets/d92f16d3-1c00-409d-aa66-4314ed66516e" />
 
 Vul de **plaatsnaam** en de **straatnaam** in.
+
+<img width="876" height="279" alt="image" src="https://github.com/user-attachments/assets/915d01e4-a190-45d5-ad18-809badd6e5dd" />
 
 ---
 
