@@ -65,10 +65,10 @@ In dit voorbeeld is er wél een paal vrij, daarom toont het systeem alleen de vr
 
 <img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/13cff447-da58-49cf-b15b-35371715a426" />
 
-<img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/a18a55eb-a35b-4b84-95a8-3b5627b71fd7" />
-
 1. Kies een **interval in minuten**.
 2. Klik op **Start**.
+
+<img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/a18a55eb-a35b-4b84-95a8-3b5627b71fd7" />
 
 Als de taak actief is, zie je de melding **“Taak actief!”**.  
 Vanaf dat moment controleert het systeem iedere X aantal minuten of er een laadpaal vrij is, totdat je op **Stop** klikt.
