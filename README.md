@@ -1,5 +1,8 @@
 # SnellerDanJeBuren
 
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/rink-turksma/SnellerDanJeBuren/total)
+
+
 SnellerDanJeBuren is een Windows-applicatie waarmee je laadpalen in jouw buurt kunt selecteren.  
 Op basis van een door jou ingesteld interval controleert de app of er een laadpaal vrij is en toont een pop-up zodra dat zo is.
 
