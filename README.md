@@ -52,10 +52,10 @@ Als je een laadpaal uit de lijst wilt verwijderen:
 
 <img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/313f38e1-2d6d-401a-92f7-7d1dc2a0fc31" />
 
-<img width="292" height="159" alt="image" src="https://github.com/user-attachments/assets/4a7b922d-9696-4f80-923d-a65df2ee8bb3" />
-
 Gebruik de knop **Test** om te controleren of alles werkt.  
 De testfunctie toont altijd output – ook als er géén laadpaal vrij is.
+
+<img width="292" height="159" alt="image" src="https://github.com/user-attachments/assets/4a7b922d-9696-4f80-923d-a65df2ee8bb3" />
 
 In dit voorbeeld is er wél een paal vrij, daarom toont het systeem alleen de vrije laadpaal:
 
