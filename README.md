@@ -36,13 +36,11 @@ Als je dit hebt gedaan, klik je op **‘Zoek en voeg laadpaal toe’**.
 
 Vul de **plaatsnaam** en de **straatnaam** in.
 
-<img width="876" height="279" alt="image" src="https://github.com/user-attachments/assets/915d01e4-a190-45d5-ad18-809badd6e5dd" />
-
 ---
 
 ## Laadpalen beheren
 
-<img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/313f38e1-2d6d-401a-92f7-7d1dc2a0fc31" />
+<img width="876" height="279" alt="image" src="https://github.com/user-attachments/assets/915d01e4-a190-45d5-ad18-809badd6e5dd" />
 
 Als je een laadpaal uit de lijst wilt verwijderen:
 
@@ -52,18 +50,20 @@ Als je een laadpaal uit de lijst wilt verwijderen:
 
 ## Testen
 
+<img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/313f38e1-2d6d-401a-92f7-7d1dc2a0fc31" />
+
 <img width="292" height="159" alt="image" src="https://github.com/user-attachments/assets/4a7b922d-9696-4f80-923d-a65df2ee8bb3" />
 
 Gebruik de knop **Test** om te controleren of alles werkt.  
 De testfunctie toont altijd output – ook als er géén laadpaal vrij is.
-
-<img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/13cff447-da58-49cf-b15b-35371715a426" />
 
 In dit voorbeeld is er wél een paal vrij, daarom toont het systeem alleen de vrije laadpaal:
 
 ---
 
 ## Automatisch controleren (taak aanmaken)
+
+<img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/13cff447-da58-49cf-b15b-35371715a426" />
 
 <img width="879" height="285" alt="image" src="https://github.com/user-attachments/assets/a18a55eb-a35b-4b84-95a8-3b5627b71fd7" />
 
